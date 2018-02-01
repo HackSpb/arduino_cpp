@@ -6,14 +6,14 @@ C++ libriry for studing c++ on codeblock witch priting enterface like arduino
 
 1) include file
 
-'''C++
+```C++
   #include <D:\arduino_c.h>
 
-'''
+```
 
 2) use class object "Serial" and these methods:
 
-'''C++
+```C++
    Serial.print(3);
    Serial.print(3.14);
    Serial.print('Z');
@@ -23,4 +23,4 @@ C++ libriry for studing c++ on codeblock witch priting enterface like arduino
    Serial.read(); // for read char
    
    delay(1000);
-'''
+```
